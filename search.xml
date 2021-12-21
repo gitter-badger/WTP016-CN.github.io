@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/12/18/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>论某绿茶婊的高超茶艺</title>
     <url>/2021/12/18/%E8%AE%BA%E6%9F%90%E7%BB%BF%E8%8C%B6%E5%A9%8A%E7%9A%84%E9%AB%98%E8%B6%85%E8%8C%B6%E8%89%BA/</url>
     <content><![CDATA[<h1 id="论绿茶婊的高超茶艺-下"><a href="#论绿茶婊的高超茶艺-下" class="headerlink" title="论绿茶婊的高超茶艺 (下)"></a>论绿茶婊的高超茶艺 (下)</h1><p>* 本文章为真实事件</p>
@@ -32,14 +14,5 @@
 <p>这位渣女，通过各种挑拨离间的方法，已经拆散了你班5对亲密无间的朋友，不仅如此，它还想与它的前前前男友复合，？</p>
 <p>它的这种行为，成功引起了你班部分同学的反感，也庆幸这部分同学清醒之快，没被它背刺到，梅</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>friends</title>
-    <url>/2021/12/20/friends/</url>
-    <content><![CDATA[<h1 id="友情链接"><a href="#友情链接" class="headerlink" title="友情链接"></a>友情链接</h1><p>(如需加入此列表，请在<a href="https://github.com/WTP016-CN/WTP016-CN.github.io/issues">这里</a>提出申请)</p>
-]]></content>
-      <tags>
-        <tag>友情链接</tag>
-      </tags>
   </entry>
 </search>
