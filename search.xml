@@ -23,10 +23,7 @@
     <title>Hexo 的一些配置分享</title>
     <url>/posts/2/</url>
     <content><![CDATA[<h1 id="Hexo-的一些配置分享"><a href="#Hexo-的一些配置分享" class="headerlink" title="Hexo 的一些配置分享"></a>Hexo 的一些配置分享</h1><p>整了 2 天的 Hexo，各种东西乱七八糟的都来了一波，下面就来分享一下心得——</p>
-<span id="more"></span>
-
-<h3 id="1-Hexo-Admin-插件"><a href="#1-Hexo-Admin-插件" class="headerlink" title="1. Hexo Admin 插件"></a>1. Hexo Admin 插件</h3><p>首先就是这个对我来说挺有用的插件了。这个插件提供了一个网上写作环境，同时可以让文件即使保存，不会像编辑器编辑一样，断电了所有数据就丢失，保证了数据的稳定性。<br><img src="https://cdn.jsdelivr.net/gh/WTP016-CN/Image_for_Blog/hexo_admin.png"></p>
-<h3 id="2-Ayer-主题"><a href="#2-Ayer-主题" class="headerlink" title="2. Ayer 主题"></a>2. Ayer 主题</h3><p><img src="https://cdn.jsdelivr.net/gh/WTP016-CN/Image_for_Blog/ayer_theme.png"><br>首先夸爆这个主题！真的超级好看！提供的打字动效真的很好玩，我在上面放了日本气象厅的EEW警告(<br>暂时就写到这里，想到什么会再补充的。</p>
+<h2 id="1-Hexo-Admin-插件"><a href="#1-Hexo-Admin-插件" class="headerlink" title="1. Hexo Admin 插件"></a>1. Hexo Admin 插件</h2><p>首先就是这个对我来说挺有用的插件了。这个插件提供了一个网上写作环境，同时可以让文件即使保存，不会像编辑器编辑一样，断电了所有数据就丢失，保证了数据的稳定性。<br><img src="https://cdn.jsdelivr.net/gh/WTP016-CN/Image_for_Blog/hexo_admin.png"><br>暂时就写到这里，想到什么会再补充的。</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <tags>
         <tag>Hexo</tag>
